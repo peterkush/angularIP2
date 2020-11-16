@@ -1,5 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
-/* body {
-    background-color: pink;
-    background-image: url();
-}    */
+body
+{ font-family: fantasy;
+  font-style: italic;
+  font-size: medium;
+  /* color:gold; */
+  padding: 0;
+
+}
