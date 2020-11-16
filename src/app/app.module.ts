@@ -9,6 +9,7 @@ import { AppComponent } from './app.component';
 import { UserComponent } from './user/user.component';
 import { UserService } from './user-service';
 import { DateCountPipe } from './date-count.pipe';
+import { AboutComponent } from './about/about.component';
 
 
 @NgModule({
@@ -16,6 +17,7 @@ import { DateCountPipe } from './date-count.pipe';
     AppComponent,
     UserComponent,
     DateCountPipe,
+    AboutComponent,
   ],
   imports: [
     BrowserModule,
