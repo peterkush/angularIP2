@@ -8,7 +8,7 @@ It is an Angular application that enables the user to acquire information on pub
 
 
 ## Setup/Installation instructions
-- git clone the repository
+- git clone the repository https://github.com/peterkush/angularIP2
 - open it with your preferrable text editor code . or atom .
 -run ng serve for the local host 
 
