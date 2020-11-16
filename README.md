@@ -1,13 +1,11 @@
-# G-HUB
+# Git Finder
 
 ## Author
-Ninah Mosoti
+Peter kungu
 
 ## Description
 It is an Angular application that enables the user to acquire information on public repositories once they have keyed in Github usernames.
 
-## Live Link
-https://ninahmo.github.io/G-HUB/
 
 ## Setup/Installation instructions
 - git clone the repository
@@ -21,16 +19,14 @@ https://ninahmo.github.io/G-HUB/
 - Angular CLI
 - Bootstrap
 
-## Bugs
-I have not come across any for now
+## Bugs and Colaboration
+any bugs contact me @ pkungu004@gmail.com
 
-## Support and Contact details
-For any difficulties accessing the code, comments, concerns, ideas or any form of questions. Kindly contact me at ninahb746@gmail.com
 
 ## License
 MIT License
 
-Copyright (c) 2020 Ninah Mosoti
+Copyright (c) 2020 peter kush
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
