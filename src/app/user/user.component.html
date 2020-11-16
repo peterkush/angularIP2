@@ -27,7 +27,7 @@
 
 
 <div class="container">
-    <h1 class="git">Github <span>Finder</span></h1>
+    <h1 class="git">Github <span style="color: gold;font-style: italic;" >Finder</span></h1>
     <div class="row">
         <div class="col-md-4">
             <form>
@@ -53,7 +53,7 @@
                         <span class="btn badge-pill green">{{user.public_repos}} Public Repositories
                         </span>
                         <span class="btn badge-pill yellow">{{user.followers}} Followers</span>
-                        <span class="btn badge-pill blue">Following{{user.following}}</span>
+                        <span class="btn badge-pill blue">{{user.following}} Following</span>
 
                         <br>
                         <ul class="list-group">
@@ -66,7 +66,7 @@
                 </div>
             </div>
         </div>
-        <div class="panel panel-default bg-white">
+        <div class="container">
             <div class="panel-body">
                 <div *ngFor="let repository of repository">
                     <div class="row">
